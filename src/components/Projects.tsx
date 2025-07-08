@@ -19,24 +19,24 @@ const Projects = () => {
       description: "A smart recipe discovery application that helps users find delicious meals based on available ingredients and dietary preferences.",
       tech: ["JavaScript", "React", "API Integration", "CSS"],
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&h=300&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/esthernkariuki/Recipe-apis",
+      demo: "https://recipe-apis.vercel.app/"
     },
     {
       title: "Smart To-Do List",
       description: "An intelligent task management application with priority sorting, deadline tracking, and productivity analytics.",
       tech: ["Python", "Flask", "SQLite", "HTML/CSS"],
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/esthernkariuki/To-do-list",
+      demo: "https://to-do-list-ebon-theta.vercel.app/"
     },
     {
       title: "Digital Contact Book",
       description: "A comprehensive contact management system with search functionality, categorization, and backup features.",
       tech: ["Kotlin", "Android", "SQLite", "Material Design"],
       image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=500&h=300&fit=crop",
-      github: "#",
-      demo: "#"
+      github: "https://github.com/esthernkariuki/Contact-book",
+      demo: "https://contact-book-kohl.vercel.app/"
     }
   ];
 
